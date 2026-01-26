@@ -1,12 +1,15 @@
-![Mosad](mossad.png)
-![Azov](azov.png)
-![BIS](bis.jpg)
-![GRU](gru.png)
-![Buh](cibul.png)
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="mossad.png" alt="Mosad" style="width: 120px; height: 120px; object-fit: contain;">
+  <img src="azov.png" alt="Azov" style="width: 120px; height: 120px; object-fit: contain;">
+  <img src="bis.jpg" alt="BIS" style="width: 120px; height: 120px; object-fit: contain;">
+  <img src="gru.png" alt="GRU" style="width: 120px; height: 120px; object-fit: contain;">
+  <img src="cibul.png" alt="Buh" style="width: 120px; height: 120px; object-fit: contain;">
+</div>
+
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
 
-Týmový projekt – konzolová aplikace v jazyce **C#**, která slouží k evidenci zvířat v útulku.  
-Aplikace umožňuje přidávání, výpis, vyhledávání, adopci a práci s daty uloženými v paměti (`List<T>`),  
+Týmový projekt – konzolová aplikace v jazyce **C#**, která slouží k evidenci zvířat v útulku.  
+Aplikace umožňuje přidávání, výpis, vyhledávání, adopci a práci s daty uloženými v paměti (`List<T>`),  
 volitelně také ukládání a načítání dat ze souboru.
 
 ---
@@ -67,9 +70,9 @@ Možnosti filtru:
 ## ⭐ Rozšíření (volitelné)
 
 - 📊 **Statistiky**
-  - počet zvířat podle druhu
-  - průměrný věk
-  - počet adoptovaných zvířat
+  - počet zvířat podle druhu
+  - průměrný věk
+  - počet adoptovaných zvířat
 - ✏️ **Editace a mazání zvířete**
 - 📄 **Export karty zvířete do TXT**
 - 💾 **Načítání a ukládání dat do souboru**
