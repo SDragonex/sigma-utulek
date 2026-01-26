@@ -1,5 +1,8 @@
 ![Mosad](mossad.png)
 ![Mosad](azov.png)
+![Mosad](bis.jpg)
+![Mosad](gru.png)
+![Mosad](cibul.png)
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
 
 Týmový projekt – konzolová aplikace v jazyce **C#**, která slouží k evidenci zvířat v útulku.  
