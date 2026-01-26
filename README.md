@@ -1,5 +1,7 @@
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="mossad.png" alt="Mosad" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="jeffreyyyy.png" alt="jeff" style="width: 100px; height: 100px; object-fit: contain;">
+  
 </div>
 
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
@@ -103,5 +105,5 @@ Možnosti filtru:
   <img src="cibul.png" alt="Buh" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="picus.jpg" alt="Picus" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="krk.png" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="god_bless_america.jpg" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="god_bless_america.jpg" alt="Lonso" style="width: 100px; height: 100px; object-fit: contain;">
 </div>
