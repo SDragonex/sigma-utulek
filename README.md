@@ -3,7 +3,6 @@
   <img src="azov.png" alt="Azov" style="width: 120px; height: 120px; object-fit: contain;">
   <img src="bis.jpg" alt="BIS" style="width: 120px; height: 120px; object-fit: contain;">
   <img src="gru.png" alt="GRU" style="width: 120px; height: 120px; object-fit: contain;">
-  <img src="cibul.png" alt="Buh" style="width: 120px; height: 120px; object-fit: contain;">
 </div>
 
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
