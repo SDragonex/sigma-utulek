@@ -1,4 +1,4 @@
-![Mosad](mosad.png)
+![Mosad](mossad.png)
 
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
 
