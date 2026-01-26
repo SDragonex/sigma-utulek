@@ -1,0 +1,16 @@
+H:\Programování\C#\3. ročník\cigan dialog\bin\Debug\cigan dialog.exe.config
+H:\Programování\C#\3. ročník\cigan dialog\bin\Debug\cigan dialog.exe
+H:\Programování\C#\3. ročník\cigan dialog\bin\Debug\cigan dialog.pdb
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog.csproj.AssemblyReference.cache
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\MainWindow.g.cs
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\App.g.cs
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog_MarkupCompile.cache
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog_MarkupCompile.lref
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\MainWindow.baml
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog.g.resources
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan_dialog.Properties.Resources.resources
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog.csproj.GenerateResource.cache
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog.csproj.CoreCompileInputs.cache
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog.exe
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog.pdb
+H:\Programování\C#\3. ročník\cigan dialog\obj\Debug\cigan dialog.exe.config
