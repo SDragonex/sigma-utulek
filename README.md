@@ -106,4 +106,6 @@ Možnosti filtru:
   <img src="krk.png" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="god_bless_america.jpg" alt="Lonso" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="jeffreyyyy.png" alt="jeff" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="IMG_2874.jpeg" alt="schiz" style="width: 100px; height: 100px; object-fit: contain;">
+  
 </div>
