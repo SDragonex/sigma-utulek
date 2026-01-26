@@ -1,4 +1,3 @@
-```markdown
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
 
 Týmový projekt – konzolová aplikace v jazyce **C#**, která slouží k evidenci zvířat v útulku.  
@@ -92,4 +91,3 @@ Možnosti filtru:
 - Zvířata jsou ukládána do `List<Zvire>`
 - Data lze volitelně ukládat do souboru
 - Projekt je připraven na další rozšiřování
-```
