@@ -1,12 +1,5 @@
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="mossad.png" alt="Mosad" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="azov.png" alt="Azov" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="bis.jpg" alt="BIS" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="gru.png" alt="GRU" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="cibul.png" alt="Buh" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="picus.jpg" alt="Picus" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="krk.png" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="god_bless_america.jpg" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
 </div>
 
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
@@ -102,3 +95,13 @@ Možnosti filtru:
 - Zvířata jsou ukládána do `List<Zvire>`
 - Data lze volitelně ukládat do souboru
 - Projekt je připraven na další rozšiřování
+
+<div>
+  <img src="azov.png" alt="Azov" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="bis.jpg" alt="BIS" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="gru.png" alt="GRU" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="cibul.png" alt="Buh" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="picus.jpg" alt="Picus" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="krk.png" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="god_bless_america.jpg" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
+</div>
