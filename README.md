@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;"> <img src="mossad.png" alt="Mosad" style="width: 150px; height: 150px; object-fit: contain;"> </div>
+
 
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
 
@@ -95,6 +95,7 @@ Možnosti filtru:
 - Projekt je připraven na další rozšiřování
 
 <div>
+  <img src="mossad.png" alt="Mosad" style="width: 150px; height: 150px; object-fit: contain;">
   <img src="azov.png" alt="Azov" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="bis.jpg" alt="BIS" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="gru.png" alt="GRU" style="width: 100px; height: 100px; object-fit: contain;">
