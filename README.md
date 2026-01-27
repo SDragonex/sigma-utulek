@@ -1,5 +1,3 @@
-
-
 # 🐾 Útulek pro zvířata – konzolová aplikace (C#)
 
 Týmový projekt – konzolová aplikace v jazyce **C#**, která slouží k evidenci zvířat v útulku.
@@ -94,12 +92,11 @@ Možnosti filtru:
 - Data lze volitelně ukládat do souboru
 - Projekt je připraven na další rozšiřování
 
-<div>
-  <img src="mossad.png" alt="Mosad" style="width: 150px; height: 150px; object-fit: contain;">
-  <img src="azov.png" alt="Azov" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="bis.jpg" alt="BIS" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="gru.png" alt="GRU" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="cibul.png" alt="Buh" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="god_bless_america.jpg" alt="Lonso" style="width: 100px; height: 100px; object-fit: contain;">
-  
+<div align="center">
+  <img src="img/mossad.png" alt="Mosad" style="width: 150px; height: 150px; object-fit: contain;">
+  <img src="img/azov.png" alt="Azov" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="img/bis.jpg" alt="BIS" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="img/gru.png" alt="GRU" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="img/cibul.png" alt="Buh" style="width: 100px; height: 100px; object-fit: contain;">
+  <img src="img/god_bless_america.jpg" alt="Lonso" style="width: 100px; height: 100px; object-fit: contain;">
 </div>
