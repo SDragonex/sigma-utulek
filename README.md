@@ -100,7 +100,6 @@ Možnosti filtru:
   <img src="bis.jpg" alt="BIS" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="gru.png" alt="GRU" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="cibul.png" alt="Buh" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="krk.png" alt="Krk" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="god_bless_america.jpg" alt="Lonso" style="width: 100px; height: 100px; object-fit: contain;">
   
 </div>
