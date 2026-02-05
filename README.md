@@ -3,7 +3,9 @@
 Týmový projekt – konzolová aplikace v jazyce **C#**, která slouží k evidenci zvířat v útulku.
 Aplikace umožňuje přidávání, výpis, vyhledávání, adopci a práci s daty uloženými v paměti (`List<T>`),
 volitelně také ukládání a načítání dat ze souboru.
-
+<div allign=center>
+  <img src="img/bashar.gif" alt="Bashar" style="width: 150px; height: 150px; object-fit: contain;">
+</div>
 ---
 
 ## 🎯 Cíle projektu
