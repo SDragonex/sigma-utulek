@@ -1,0 +1,8 @@
+H:\Programování\C#\utulek_konzola\bin\Debug\utulek_konzola.exe.config
+H:\Programování\C#\utulek_konzola\bin\Debug\utulek_konzola.exe
+H:\Programování\C#\utulek_konzola\bin\Debug\utulek_konzola.pdb
+H:\Programování\C#\utulek_konzola\obj\Debug\utulek_konzola.csproj.AssemblyReference.cache
+H:\Programování\C#\utulek_konzola\obj\Debug\utulek_konzola.csproj.CoreCompileInputs.cache
+H:\Programování\C#\utulek_konzola\obj\Debug\utulek_konzola.exe
+H:\Programování\C#\utulek_konzola\obj\Debug\utulek_konzola.pdb
+H:\Programování\C#\utulek_konzola\obj\Debug\utulek_konzola.exe.config
