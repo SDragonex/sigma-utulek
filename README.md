@@ -1,5 +1,4 @@
-# sigma-utulek
-🐾 Útulek pro zvířata – konzolová aplikace (C#)
+# Útulek pro zvířata – konzolová aplikace (C#)
 📌 Popis projektu
 
 Tento projekt je konzolová aplikace v jazyce C#, která slouží k evidenci zvířat v útulku.
