@@ -99,5 +99,5 @@ Možnosti filtru:
   <img src="img/gru.png" alt="GRU" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="img/cibul.png" alt="Buh" style="width: 100px; height: 100px; object-fit: contain;">
   <img src="img/god_bless_america.jpg" alt="Lonso" style="width: 100px; height: 100px; object-fit: contain;">
-  <img src="img/palantir.png" alt="Palantir" style="height: 100px; object-fit: contain;">
+  <img src="img/palantir.jpg" alt="Palantir" style="height: 100px; object-fit: contain;">
 </div>
