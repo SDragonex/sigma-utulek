@@ -1,0 +1,8 @@
+H:\Utulek\Utulek\bin\Debug\Utulek.exe.config
+H:\Utulek\Utulek\bin\Debug\Utulek.exe
+H:\Utulek\Utulek\bin\Debug\Utulek.pdb
+H:\Utulek\Utulek\obj\Debug\Utulek.csproj.AssemblyReference.cache
+H:\Utulek\Utulek\obj\Debug\Utulek.csproj.CoreCompileInputs.cache
+H:\Utulek\Utulek\obj\Debug\Utulek.exe
+H:\Utulek\Utulek\obj\Debug\Utulek.pdb
+H:\Utulek\Utulek\obj\Debug\Utulek.exe.config
